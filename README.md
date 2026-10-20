@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Skills
 
 **Languages:**
 
