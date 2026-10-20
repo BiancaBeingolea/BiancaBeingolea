@@ -1,6 +1,6 @@
-## Hi! I'm Bianca
+## Hi! I'm Bianca 🌞
 
-🎓 **Computer Science & Philosophy Graduate** | 🧠 **Neural Networks & Natural Language Processing Enthusiast** | 📊 **Data Analytics Consultant**
+**Data Analytics Consultant**  |  **Computer Science & Philosophy Graduate**  |  **Neural Networks & Natural Language Processing Enthusiast** 
 
 ---
 
